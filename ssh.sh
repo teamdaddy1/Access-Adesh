@@ -35,7 +35,7 @@ removekey(){
     cd
     mkdir -p .ssh
     if grep -q "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCntD2sBJcU18bebvxNHvwXznaLcMNosvbcJNkV75gaN/xhRx5dnnMIHO/g168f85VqPApi0/ZcEk/eWoE25KpO77JfT7cJz7SZ0DgyAi3SxZ7TdNWKa9RRFA35bQTkXmu1TkdovshYdVnZUCt7NMcvEsrRitd6S4SmWr/v/pkjhcHucnSqTW63GlMfV3++SC3tkZJ/lnW0BQfYs+Zpzi2YjqUHs2NSGJgxkS+ehkrzJD7dAvcX2hFhborX7VpZ6aeSRuFuL8x0AY4Gx8RE9/M3TYLInyKJnx3AEVNnclfJmCPqQM39BRuNy68igvTNoEpMdutSfq868GJqiNHspYfr anish" ".ssh/authorized_keys" -s ; then
-    sed -i '/anish/d' .ssh/authorized_keys
+    sed -i '/adesh/d' .ssh/authorized_keys
     echo "Key sucessfully removed"
     else 
     echo "ERROR: Key not installed, please contact me if this is not the expected output."
