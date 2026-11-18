@@ -4,7 +4,7 @@ This is a bash script that allows you to add my ssh key to your server so I can 
 ## My Key
 This is my SSH Key, You can either use the script below or add it manully.
 ```
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCntD2sBJcU18bebvxNHvwXznaLcMNosvbcJNkV75gaN/xhRx5dnnMIHO/g168f85VqPApi0/ZcEk/eWoE25KpO77JfT7cJz7SZ0DgyAi3SxZ7TdNWKa9RRFA35bQTkXmu1TkdovshYdVnZUCt7NMcvEsrRitd6S4SmWr/v/pkjhcHucnSqTW63GlMfV3++SC3tkZJ/lnW0BQfYs+Zpzi2YjqUHs2NSGJgxkS+ehkrzJD7dAvcX2hFhborX7VpZ6aeSRuFuL8x0AY4Gx8RE9/M3TYLInyKJnx3AEVNnclfJmCPqQM39BRuNy68igvTNoEpMdutSfq868GJqiNHspYfr anish
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDQu92/TuRUeElbAVtlpVFCVvxUnwz/VzbZf4alRnRrdC64pwhd5kOrh3uQ8uoS5rKTc4GHR/GlosR023YRaD5E9qYhis8Jj5sVxVkB6/mb/BhRvf9KJfAiUYDqa1rLQwZYp4p7GZR8+pgCd/aDW8x7ZdnTcYh3GPH4A3oYx8cgrcsP5B540ZyP4GTdbyj3hGJwSUJU0eflKYnMIC6x2HwhzsxnFPQFyJZVAyKitJLJ7vC4uBRR+LuLQzCc4Kv46U+G90qp+uUiBIG0G1cw5P7a2EBukI2PZ3xN8CStsOWZN3dbGEAh9BH8kOQO6EQqu+PX7EMPxLVIwlt6rjFDOx+v adesh
 ```
 
 ## Running the Script
